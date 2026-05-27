@@ -21,12 +21,6 @@ app = FastAPI()
 # Load trained model
 model = joblib.load(r"C:\Main_Drive\work\workarea\projects\credit_risk_prediction\models\model_rf.pkl")
 
-
-# feature_columns = joblib.load(
-#     "models/feature_columns.pkl"
-# )
-
-
 # Input schema
 from pydantic import BaseModel
 
