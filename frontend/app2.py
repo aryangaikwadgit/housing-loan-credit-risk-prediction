@@ -585,6 +585,7 @@ elif st.session_state.page == 4:
         if st.button("← Back to Loan Details", use_container_width=True):
             st.session_state.page = 3
             st.rerun()
+            
     with col2:
         if st.button("Start New Application", use_container_width=True, type="primary"):
             st.session_state.page = 1
