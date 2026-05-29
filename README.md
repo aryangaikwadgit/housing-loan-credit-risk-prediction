@@ -1,6 +1,6 @@
 # 🏠 Home Credit Risk Predictor
 
-> \*\*Predict home loan repayment risk before it becomes a problem.\*\*  
+> Predict home loan repayment risk before it becomes a problem.  
 > A full-stack machine learning application that scores credit risk from applicant profiles — giving lenders a probability-based view of default risk, not just a binary yes/no.
 
 \---
