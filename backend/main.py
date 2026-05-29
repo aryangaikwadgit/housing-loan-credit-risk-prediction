@@ -15,7 +15,7 @@ app = FastAPI()
 
 # Load trained model
 model = joblib.load(
-    r"C:\Main_Drive\work\workarea\projects\credit_risk_prediction\models\model_rf.pkl"
+    r"C:\Main_Drive\work\workarea\projects\credit_risk_prediction\models\model_rf_v2"
 )
 
 # Input schema
